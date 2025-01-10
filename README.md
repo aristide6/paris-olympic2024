@@ -1,2 +1,3 @@
-# paris-olympic2024
-olympic game 2024 
+Here's everything this dataset includes about Paris Olympics summer games 2024:
+all results (updated asap or daily)
+venues,teams,medals, total_medals. Based on the datasets on kaggle I did drop some tables. It's fror learning purpose.
